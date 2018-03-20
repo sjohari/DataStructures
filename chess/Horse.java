@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 public class Horse extends Piece{
 

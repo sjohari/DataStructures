@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 import java.util.Scanner;
 

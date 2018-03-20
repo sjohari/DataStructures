@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 public enum PieceColor {
 	Black,

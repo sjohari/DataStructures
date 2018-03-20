@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 public class PlayChess {
 	public String board[][] = 

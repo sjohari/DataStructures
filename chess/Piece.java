@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 public abstract class Piece {
 	PieceType pieceType;

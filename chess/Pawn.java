@@ -1,4 +1,4 @@
-package chess;
+package DataStructures.chess;
 
 public class Pawn extends Piece{
 
